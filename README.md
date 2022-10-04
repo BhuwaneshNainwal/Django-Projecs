@@ -18,9 +18,9 @@ to-do tasks.
 * Languages Used: Python
 * Frameworks used: Django 
 * Libraries Used: datetime, time
-* Concepts Used: Multithreading, Dynamic broadcast receiver etc.
 
 
-## Playstore Link:
+
+## Web-application Link:
 
 #### https://raw-tame-table.anvil.app/
