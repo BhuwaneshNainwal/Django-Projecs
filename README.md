@@ -8,12 +8,12 @@ to-do tasks.
 * Funtionality to add tasks with title and description.
 * Keeps the track of the time when the task was completed.
 * Separate link for completed and to-do tasks.
-![6](https://user-images.githubusercontent.com/70212380/193745377-3672205d-6b38-4ce3-961e-c01cc6a2f069.png)
+
 
 ## Screenshots:
-![4]()
 
-<img src="https://user-images.githubusercontent.com/70212380/193741158-9d2456f4-917c-46d3-8203-f86d88126b85.png" width="1000px">   .   <img src="https://user-images.githubusercontent.com/70212380/193742095-28af31b0-d6a0-4781-8b16-9fee10988cfb.png" width="1000px">   .   <img src="https://user-images.githubusercontent.com/70212380/193745283-4095fa3d-9360-4c50-a809-63a70202685d.png" width="250px">   .   <img src="https://user-images.githubusercontent.com/70212380/193745377-3672205d-6b38-4ce3-961e-c01cc6a2f069.png" width="250px">   .   <img src="https://user-images.githubusercontent.com/70212380/173198262-f10e9683-0b36-4e5c-be59-8020e9805472.jpg" width="250px">   .   <img src="https://user-images.githubusercontent.com/70212380/173198267-6fc5008f-dc28-471e-8d93-ecb747fb5cf4.jpg" width="250px">
+
+<img src="https://user-images.githubusercontent.com/70212380/193741158-9d2456f4-917c-46d3-8203-f86d88126b85.png" width="1000px">   .   <img src="https://user-images.githubusercontent.com/70212380/193742095-28af31b0-d6a0-4781-8b16-9fee10988cfb.png" width="1000px">   .   <img src="https://user-images.githubusercontent.com/70212380/193745283-4095fa3d-9360-4c50-a809-63a70202685d.png" width="1000px">   .   <img src="https://user-images.githubusercontent.com/70212380/193745377-3672205d-6b38-4ce3-961e-c01cc6a2f069.png" width="1000px">   .   <img src="https://user-images.githubusercontent.com/70212380/173198262-f10e9683-0b36-4e5c-be59-8020e9805472.jpg" width="250px">   .   <img src="https://user-images.githubusercontent.com/70212380/173198267-6fc5008f-dc28-471e-8d93-ecb747fb5cf4.jpg" width="250px">
 
 ## Techstack Used:
 * This application is made on Anvil.
