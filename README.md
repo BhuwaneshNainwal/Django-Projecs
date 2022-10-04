@@ -1,6 +1,6 @@
-# TODO app 
+# TODO List app 
 
-TODO app keeps the track of your tasks and enhance your day to day productivity. With the help of this application anyone can create, read, modify and delete (CRUD) their
+TODO List app is a web-application that keeps the track of your tasks and enhance your day to day productivity. With the help of this application anyone can create, read, modify and delete (CRUD) their
 to-do tasks.
 
 ## Features:
