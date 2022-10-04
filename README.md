@@ -13,7 +13,7 @@ to-do tasks.
 ## Screenshots:
 
 
-<img src="https://user-images.githubusercontent.com/70212380/193741158-9d2456f4-917c-46d3-8203-f86d88126b85.png" width="1000px">   .   <img src="https://user-images.githubusercontent.com/70212380/193742095-28af31b0-d6a0-4781-8b16-9fee10988cfb.png" width="1000px">   .   <img src="https://user-images.githubusercontent.com/70212380/193745283-4095fa3d-9360-4c50-a809-63a70202685d.png" width="1000px">   .   <img src="https://user-images.githubusercontent.com/70212380/193745377-3672205d-6b38-4ce3-961e-c01cc6a2f069.png" width="1000px">   .   <img src="https://user-images.githubusercontent.com/70212380/193745611-ef29144e-81bd-42cc-93fe-3920f8e1558c.png" width="1000x">   .   <img src="https://user-images.githubusercontent.com/70212380/193745690-c16a96d7-cac6-475a-add4-c2ed25e2cea1.png" width="250px">
+<img src="https://user-images.githubusercontent.com/70212380/193741158-9d2456f4-917c-46d3-8203-f86d88126b85.png" width="1000px">   .   <img src="https://user-images.githubusercontent.com/70212380/193742095-28af31b0-d6a0-4781-8b16-9fee10988cfb.png" width="1000px">   .   <img src="https://user-images.githubusercontent.com/70212380/193745283-4095fa3d-9360-4c50-a809-63a70202685d.png" width="1000px">   .   <img src="https://user-images.githubusercontent.com/70212380/193745377-3672205d-6b38-4ce3-961e-c01cc6a2f069.png" width="1000px">   .   <img src="https://user-images.githubusercontent.com/70212380/193745611-ef29144e-81bd-42cc-93fe-3920f8e1558c.png" width="1000x">   .   <img src="https://user-images.githubusercontent.com/70212380/193745690-c16a96d7-cac6-475a-add4-c2ed25e2cea1.png" width="1000px">
 
 ## Techstack Used:
 * This application is made on Anvil.
